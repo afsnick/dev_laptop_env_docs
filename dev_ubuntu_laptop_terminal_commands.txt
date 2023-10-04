@@ -1,0 +1,15 @@
+dev_ubuntu_laptop_terminal_commands
+===================================
+
+list of terminal commands i used to setup scrivs laptop
+- only including the out of the ordinary ones...
+
+1st one was to try to get internal webcam working...
+
+  sudo add-apt-repository ppa:oem-solutions-group/intel-ipu6
+  apt-get install libgstreamer1.0-dev libgstreamer-plugins-base1.0-dev libgstreamer-plugins-bad1.0-dev gstreamer1.0-plugins-base gstreamer1.0-plugins-good gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly gstreamer1.0-libav gstreamer1.0-tools gstreamer1.0-x gstreamer1.0-alsa gstreamer1.0-gl gstreamer1.0-gtk3 gstreamer1.0-qt5 gstreamer1.0-pulseaudio
+  sudo apt install libcamhal-ipu6ep0
+  
+  
+
+  

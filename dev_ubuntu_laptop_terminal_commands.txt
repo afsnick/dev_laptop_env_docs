@@ -4,6 +4,16 @@ dev_ubuntu_laptop_terminal_commands
 list of terminal commands i used to setup scrivs laptop
 - only including the out of the ordinary ones...
 
+LIST OF SOFTWARE INSTALLED AS AT OCT 23 - MAIN ONES ONLY = FAVES DOWN LHS
+          BRAVE
+          PYCHARM
+          REMMINA
+          KRUSADER
+          KDENLIVE
+          GIMP
+
+TERMINAL COMMANDS....
+
 1st one was to try to get internal webcam working...
 
   sudo add-apt-repository ppa:oem-solutions-group/intel-ipu6
@@ -12,6 +22,10 @@ list of terminal commands i used to setup scrivs laptop
 
   sudo apt install libcamhal-ipu6ep0
   sudo reboot
+
+KDENLIVE UPGRADE TO LATEST VERSION...
+  sudo add-apt-repository ppa:kdenlive/kdenlive-stable
+  sudo apt install kdenlive
 
 
   

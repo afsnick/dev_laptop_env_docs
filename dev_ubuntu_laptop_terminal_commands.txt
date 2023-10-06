@@ -23,9 +23,7 @@ TERMINAL COMMANDS....
   sudo apt install libcamhal-ipu6ep0
   sudo reboot
 
-KDENLIVE UPGRADE TO LATEST VERSION...
-  sudo add-apt-repository ppa:kdenlive/kdenlive-stable
-  sudo apt install kdenlive
+
 
 
   
